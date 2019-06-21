@@ -1,6 +1,6 @@
 # Introduction to structured directory organization for analysis in Bash
 
-This write up is based on computational knowledge passed down by [Konrad](https://github.com/konrad)
+This write up is based on computational knowledge passed down by [Konrad](https://github.com/konrad)  
 A scientic paper to support this methods can be found [here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
 
 ## Objective of scripting
