@@ -5,8 +5,8 @@ A scientic paper to support this methods can be found [here](https://journals.pl
 
 ## Objective of scripting
 
-The first rule of everything; "always start with why"
-There are two main objectives we try to achieve
+The first rule of everything; "always start with why"  
+There are two main objectives we try to achieve  
 - Reproducibility
 	- Other people can easily use your pipeline or reproduce your work
 - Smooth later retrieval
