@@ -1,7 +1,7 @@
 # Introduction to structured directory organization for analysis in Bash
 
-This write up is based on computational knowledge passed down by (Konrad)[https://github.com/konrad]
-A scientic paper to support this methods can be found (here)[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424]
+This write up is based on computational knowledge passed down by (Konrad) [https://github.com/konrad]
+A scientic paper to support this methods can be found (here) [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424]
 
 ## Objective of scripting
 
@@ -29,7 +29,7 @@ DateMainProjectWasInitiated-DescriptiveNameofMainProject
 └── README.md
 ```
 
-A bash script that can be used to generate such a directory structure is provided (here)[https://github.com/konrad/project_generator] by (Konrad)[https://github.com/konrad] 
+A bash script that can be used to generate such a directory structure is provided (here) [https://github.com/konrad/project_generator] by (Konrad) [https://github.com/konrad] 
 
 # Directory structure explained
 
@@ -55,4 +55,4 @@ A typical example will look like this:
 - The main directory contain 3 subdirectories (analyses, bin, data) and a README.md file (A description of the project)
 - The analyses directory usually contains all the subdirectories for different analyses
 - Each subdirectory under analyses should have 1 compulsory element (run.sh) the remaining directories could be flexible
-- The run.sh is the central element in every analysis. Essentially it's the blue print for what was done and how it was donea detailed description will be provided (here)[4]
+- The run.sh is the central element in every analysis. Essentially it's the blue print for what was done and how it was donea detailed description will be provided (here) [4]
